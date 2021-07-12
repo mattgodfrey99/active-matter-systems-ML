@@ -2,7 +2,7 @@
 
 Using Machine Learning to model collective and adversarial behaviours in active matter systems. Completed as part of a summer internship at the University of Nottingham.
 
-The two folders are split between MNIST and the Brownian motion aspects. MNIST was simply me getting used to machine learning using keras, and Brownian motion contains the code used for modelling an active matter system and applying machine learning to it. Descriptions for how the code works is described well within in file, or within the pdf write up of my summer internship.
+The two folders are split between MNIST and the Brownian motion aspects. MNIST was simply me getting used to machine learning using keras, and Brownian motion contains the code used for modelling an active matter system and applying machine learning to it. Descriptions for how the code works is described well within in file, or within the pdf write up of my summer internship. It is worth noting this write up was informal, and as such lacks a reference list and is not complete.
 
 ## For MNIST:
 
